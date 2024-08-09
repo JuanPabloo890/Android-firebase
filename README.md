@@ -2,6 +2,16 @@
 
 ### Juan Falconi
 
+## APK
+
+La APK la pueden encontrar en el siguiente enlace:
+
+<p align="center">
+  <a href="https://epnecuador-my.sharepoint.com/:u:/g/personal/juan_falconi_epn_edu_ec/EfcNRUoTZhpNlGKAfds5cJAB4_FNPn-5Nb4tkxkKCVgjNQ?e=1S76w9" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Download%20APK-blue?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</p>
+
 ## Funcionamiento de la Aplicación
 
 La aplicación utiliza Firebase Authentication para permitir a los usuarios registrarse e iniciar sesión.

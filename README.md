@@ -1,33 +1,61 @@
-# Implementacion de Firebase a Android 
+# Implementación de Firebase en Android
 
 ### Juan Falconi
 
-# Funcionamiento de la aplicacion
+## Funcionamiento de la Aplicación
 
-![Screenshot_2024-08-09-15-10-07-841_com miui home](https://github.com/user-attachments/assets/749d0685-55db-44f5-aa84-035670889dee)
+La aplicación utiliza Firebase Authentication para permitir a los usuarios registrarse e iniciar sesión.
 
-Esta aplicacion tiene un login usando Authentication de firebase en donde el usuario que use la aplicacion se pueda registrar e iniciar sesion.
+### Pantalla de Inicio de Sesión
 
-![Screenshot_2024-08-09-15-10-13-713_com example firebase_android](https://github.com/user-attachments/assets/3a39c3d7-dcdb-4b9c-9e8e-414c3aeeeb1b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/749d0685-55db-44f5-aa84-035670889dee" alt="Pantalla de inicio de sesión" width="300"/>
+</p>
 
-En este case se registro un nuevo usuario "Lucas" 
+### Registro de Usuario
 
-![Screenshot_2024-08-09-15-10-29-699_com example firebase_android](https://github.com/user-attachments/assets/442ee9bf-bfa4-4935-b7fd-9a9bd397f3c0)
+En este caso, se registró un nuevo usuario llamado "Lucas".
 
-Una vez registrado el usuario le saldra la siguiente pantalla en donde podra agregar una nota o ver las notas que esten almacenadas en el realtime database de firebase.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a39c3d7-dcdb-4b9c-9e8e-414c3aeeeb1b" alt="Registro de usuario" width="300"/>
+</p>
 
-Se agrego la nota de Compras
+### Pantalla Principal
 
-![Screenshot_2024-08-09-15-10-55-684_com example firebase_android](https://github.com/user-attachments/assets/b9d9df29-dab1-423a-bb51-579973eb9309)
+Una vez registrado, el usuario accede a la pantalla principal donde puede agregar nuevas notas o ver las notas existentes almacenadas en Firebase Realtime Database.
 
-Se guardo la nota y para ver las notas solo se aplasta en el boton view notes.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/442ee9bf-bfa4-4935-b7fd-9a9bd397f3c0" alt="Pantalla principal" width="300"/>
+</p>
 
-![Screenshot_2024-08-09-15-10-59-061_com example firebase_android](https://github.com/user-attachments/assets/bdd6949f-dfdc-437c-b6f5-2ea319341c82)
+### Agregar Nota
 
-Listado de todas las notas
+Se agregó la nota "Compras".
 
-![Screenshot_2024-08-09-15-11-02-499_com example firebase_android](https://github.com/user-attachments/assets/41501bb4-a217-4671-95ac-f219cfa2a1c3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9d9df29-dab1-423a-bb51-579973eb9309" alt="Agregar nota" width="300"/>
+</p>
 
-Notas desde el firebase
+### Ver Notas
 
-![image](https://github.com/user-attachments/assets/756b072f-6bbb-4cad-8b64-39e09d96cabd)
+Para ver las notas, el usuario debe hacer clic en el botón "View Notes".
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bdd6949f-dfdc-437c-b6f5-2ea319341c82" alt="Ver notas" width="300"/>
+</p>
+
+### Listado de Notas
+
+Aquí se muestra el listado de todas las notas.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41501bb4-a217-4671-95ac-f219cfa2a1c3" alt="Listado de notas" width="300"/>
+</p>
+
+### Notas desde Firebase
+
+Finalmente, se pueden ver las notas almacenadas en Firebase Realtime Database.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/756b072f-6bbb-4cad-8b64-39e09d96cabd" alt="Notas desde Firebase" width="300"/>
+</p>

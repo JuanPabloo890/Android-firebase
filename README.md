@@ -57,5 +57,5 @@ Aquí se muestra el listado de todas las notas.
 Finalmente, se pueden ver las notas almacenadas en Firebase Realtime Database.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/756b072f-6bbb-4cad-8b64-39e09d96cabd" alt="Notas desde Firebase" width="300"/>
+  <img src="https://github.com/user-attachments/assets/756b072f-6bbb-4cad-8b64-39e09d96cabd" alt="Notas desde Firebase" "/>
 </p>
